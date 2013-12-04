@@ -1,4 +1,4 @@
 HelloWorld
 ==========
 
-Testing out github workflow
+Testing out github workflow -- see documentation at https://github.com/BradnerLab/pipeline/wiki/Collaboration-Workflow
